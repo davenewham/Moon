@@ -10,6 +10,6 @@ Hi, my name is David Newham and I study Computer Science at Sheffield Hallam. We
 My primary workmachine is a Thinkpad X220, with an upgraded IPS panel. Running Debian Jessie 8.4, Kernel 4.5.0
 
 
-Theme for the blog can be found here by the taleneted <a href="http://taylantatli.github.io/Moon"><b>Taylantatli</b></a>
+Theme for the blog can be found here by the taleneted <a href="https://github.com/TaylanTatli/Moon"><b>Taylantatli</b></a>
     
 
